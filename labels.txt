@@ -1,0 +1,43 @@
+Limită de viteză (20km/h)
+Limită de viteză (30km/h)
+Limită de viteză (50km/h)
+Limită de viteză (60km/h)
+Limită de viteză (70km/h)
+Limită de viteză (80km/h)
+Sfârșit limită de viteză (80km/h)
+Limită de viteză (100km/h)
+Limită de viteză (120km/h)
+Interzis depășirea
+Interzis depășirea pentru vehicule peste 3.5 tone
+Drept de trecere la următoarea intersecție
+Drum cu prioritate
+Cedează trecerea
+Oprire
+Acces interzis
+Interzis vehicule peste 3.5 tone
+Acces interzis
+Atenție generală
+Curbă periculoasă la stânga
+Curbă periculoasă la dreapta
+Curbe duble
+Drum denivelat
+Drum alunecos
+Drum îngustat pe dreapta
+Lucrări pe drum
+Semafor
+Trecere de pietoni
+Trecere de copii
+Traversare biciclete
+Atenție gheață/zăpadă
+Traversare animale sălbatice
+Sfârșit toate limitele de viteză și depășire
+Obligatoriu la dreapta înainte
+Obligatoriu la stânga înainte
+Înainte
+Înainte sau la dreapta
+Înainte sau la stânga
+Tine dreapta
+Tine stânga
+Sens giratoriu obligatoriu
+Sfârșit interdicție de depășire
+Sfârșit interdicție de depășire pentru vehicule peste 3.5 tone
